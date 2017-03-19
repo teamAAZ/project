@@ -1,0 +1,954 @@
+{
+  "Data": [
+    [{
+          "mFname": "Hamad",
+          "mLname": "Nasser",
+          "mUsername": "Hamad",
+          "mPassword": "123456",
+          "mAge": 23,
+          "mDOB": "11/11/1993",
+          "mMobileNumber": 55334466,
+          "mWeight": "65",
+          "mSessions": [
+            {
+              "sDate": "11/3/2017",
+              "sTime": "3:30",
+              "sPlace": "W",
+              "Tusername": "Hajer"
+            },
+            {
+              "sDate": "14/3/2017",
+              "sTime": "3:30",
+              "sPlace": "W",
+              "Tusername": "Hajer"
+            }
+          ],
+          "mEmail": "hamad_93@hotmail.com"
+        },
+        {
+          "mFname": "mohammed",
+          "mLname": "fahad",
+          "mUsername": "mohammed",
+          "mPassword": "123456",
+          "mAge": 30,
+          "mDOB": "11/11/1986",
+          "mMobileNumber": 33446655,
+          "mWeight": "80",
+          "mSessions": [
+            {
+              "sDate": "13/3/2017",
+              "sTime": "12:30",
+              "sPlace": "W",
+              "Tusername": "Eldin"
+            },
+            {
+              "sDate": "15/3/2017",
+              "sTime": "12:30",
+              "sPlace": "W",
+              "Tusername": "Eldin"
+            },
+            {
+              "sDate": "12/3/2017",
+              "sTime": "11:00",
+              "sPlace": "W",
+              "Tusername": "Tim"
+            },
+            {
+              "sDate": "16/3/2017",
+              "sTime": "11:00",
+              "sPlace": "W",
+              "Tusername": "Tim"
+            }
+          ],
+          "mEmail": "hamad_93@hotmail.com"
+    }],
+    [{
+          "tFname": "Eldin",
+          "tUsername": "eldin",
+          "tPassword": "123456",
+          "tMobileNumber": 66559556,
+          "tSessions": [
+            {
+              "sDate": "13/3/2017",
+              "sTime": "12:30",
+              "sPlace": "W",
+              "Musername": "mohammed"
+            },
+            {
+              "sDate": "15/3/2017",
+              "sTime": "12:30",
+              "sPlace": "W",
+              "Musername": "mohammed"
+            }
+          ],
+          "tAvailability": [
+            {
+              "day": "saturday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "monday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "wednesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00PM",
+              "isAvailable": true
+            }
+          ],
+          "tEmail": "eldin@my30minutesqatar.com"
+        },
+        {
+          "tFname": "Hajer",
+          "tUsername": "hajer",
+          "tPassword": "123456",
+          "tMobileNumber": 55117490,
+          "tSessions": [
+            {
+              "sDate": "11/3/2017",
+              "sTime": "3:30",
+              "sPlace": "W",
+              "Musername": "Hamad"
+            },
+            {
+              "sDate": "14/3/2017",
+              "sTime": "3:30",
+              "sPlace": "W",
+              "Musername": "Hamad"
+            }
+          ],
+          "tAvailability": [
+            {
+              "day": "saturday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "3:30",
+              "isAvailable": false
+            },
+            {
+              "day": "saturday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "monday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "3:30",
+              "isAvailable": false
+            },
+            {
+              "day": "tuesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "wednesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00PM",
+              "isAvailable": true
+            }
+          ],
+          "tEmail": "hajer@my30minutesqatar.com"
+        },
+        {
+          "tFname": "Time",
+          "tUsername": "tim",
+          "tPassword": "123456",
+          "tMobileNumber": 33999305,
+          "tSessions": [
+            {
+              "sDate": "12/3/2017",
+              "sTime": "11:00",
+              "sPlace": "W",
+              "Musername": "mohammed"
+            },
+            {
+              "sDate": "16/3/2017",
+              "sTime": "11:00",
+              "sPlace": "W",
+              "Musername": "mohammed"
+            }
+          ],
+          "tAvailability": [
+            {
+              "day": "saturday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "11:00",
+              "isAvailable": false
+            },
+            {
+              "day": "saturday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "saturday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "sunday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "monday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "monday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "tuesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "11:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "12:30",
+              "isAvailable": false
+            },
+            {
+              "day": "wednesday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "wednesday",
+              "time": "8:00PM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00AM",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "9:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "11:00",
+              "isAvailable": false
+            },
+            {
+              "day": "thursday",
+              "time": "12:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "2:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "3:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "5:00",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "6:30",
+              "isAvailable": true
+            },
+            {
+              "day": "thursday",
+              "time": "8:00PM",
+              "isAvailable": true
+            }
+          ],
+        "tEmail": "tim@my30minutesqatar.com"
+      }
+    ],
+    [
+      {
+        "aFname": "admin",
+        "aLname": "admin",
+        "aUsername": "admin",
+        "aPassword": "123456"
+      }
+    ]
+  ]
+}   
